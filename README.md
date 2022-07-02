@@ -8,3 +8,6 @@ The application upon finishing parsing data from the API, fills the content and 
 * Language: [Swift](https://developer.apple.com/swift/) <br />
 * Library: [Kingfisher](https://github.com/onevcat/Kingfisher) <br />
 * API: [The Movie Database (TMDB) API](https://api.themoviedb.org/) <br />
+
+![MovieMain](https://user-images.githubusercontent.com/101136418/177001427-77f6de52-9cd0-4da0-8165-13bb58a0758f.png)
+
